@@ -1,0 +1,5 @@
+python-dotenv
+ipykernel
+ollama
+pandas
+requests
