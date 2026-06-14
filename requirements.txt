@@ -5,3 +5,4 @@ trl
 accelerate
 pandas
 openpyxl
+ipykernel
