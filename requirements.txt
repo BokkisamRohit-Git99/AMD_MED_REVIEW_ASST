@@ -6,3 +6,6 @@ accelerate
 pandas
 openpyxl
 ipykernel
+torch
+requests
+gradio
